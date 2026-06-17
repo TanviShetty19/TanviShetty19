@@ -1,159 +1,170 @@
-<h1 align="center">Hi 👋, I'm Tanvi Shetty</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer • Data Science Enthusiast • Full Stack Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=180&amp;section=header&amp;text=Hi%20there%2C%20I%27m%20Tanvi%20Shetty&amp;fontSize=40&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%2FML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Data%20Science%20Graduate&amp;descAlignY=55&amp;descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=Computer+Science+Engineer;AI%2FML+Engineer;Full+Stack+Developer;GenAI+Explorer;Building+Intelligent+Systems" />
-</p>
+</div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-🎓 B.E. Computer Science & Data Science  
-🏫 St. Joseph Engineering College, Mangalore  
-📊 CGPA: **9.79**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+GenAI+%26+RAG+Builder;Document+Intelligence+%7C+OCR+%7C+NLP;Oracle+OCI+GenAI+Certified+%E2%98%81%EF%B8%8F;BAJA+SAE+India+2026+—+AIR+3+ATVC+%F0%9F%8F%8E%EF%B8%8F;Open+to+AI%2FML+%26+Software+Engineering+Roles)](https://git.io/typing-svg)
 
-💡 Passionate about Artificial Intelligence, Machine Learning, NLP, Computer Vision, and Full-Stack Development.
+</div>
 
-🔭 Currently exploring:
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Document Intelligence Systems
+---
 
-🌱 Always learning and building innovative AI-powered solutions.
+## 🧑‍💻 About Me
+
+```python
+tanvi = {
+    "education":    "B.E. Computer Science & Data Science @ SJEC, Mangalore (CGPA: 9.79)",
+    "location":     "Mangalore / Udupi, Karnataka, India 🇮🇳",
+    "focus":        ["AI/ML Engineering", "Document Intelligence", "GenAI & RAG", "NLP"],
+    "certifications": [
+        "Oracle OCI — Generative AI Professional",
+        "Oracle OCI — AI Foundations Associate",
+        "Oracle OCI — Foundations Associate",
+        "Salesforce Developer Catalyst & Administrator Explorer",
+    ],
+    "open_to":      "AI/ML & Software Engineering roles | Open to relocation",
+    "fun_fact":     "Manager of Team SJEC Racing — AIR 3 ATVC at BAJA SAE India 2026 🏎️",
+}
+```
 
 ---
 
 ## 🚀 Tech Stack
 
-### Programming Languages
+### 🤖 AI / ML / GenAI
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI & Machine Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge)
+### 🧰 Tools & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
-### Computer Vision & OCR
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-![TrOCR](https://img.shields.io/badge/TrOCR-AI-blue?style=for-the-badge)
-![DocTR](https://img.shields.io/badge/DocTR-OCR-green?style=for-the-badge)
-![EasyOCR](https://img.shields.io/badge/EasyOCR-red?style=for-the-badge)
-
-### Web & Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+### 🔍 Specialisations
+![OCR](https://img.shields.io/badge/Document_OCR-FF6F00?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP_%26_Transformers-6C3483?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-1A1A2E?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs_%26_GenAI-412991?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-005CFF?style=for-the-badge)
 
 ---
 
-## 💼 Experience
+## 🏗️ Featured Projects
 
-### AIML – Full Stack Intern
-**Geojit Technologies Pvt Ltd** | Jan 2026 – Apr 2026
-
-- Developed AI-driven software solutions using ML, OCR, and backend technologies.
-- Worked across the SDLC from requirement analysis to deployment.
-- Collaborated with cross-functional teams to deliver enterprise solutions.
-
-### Salesforce Virtual Intern
-**SkillWallet (Salesforce)** | May 2025 – Jul 2025
-
-- Built CRM automation workflows using Salesforce Flow.
-- Developed reports, dashboards, and approval process automation.
-
----
-
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 📄 Document Intelligence Studio V2
-- Template-driven document intelligence platform.
-- OCR, Computer Vision, and Information Extraction.
-- FastAPI + OpenCV + TrOCR + DocTR + EasyOCR.
+> Template-driven document intelligence platform for extracting and structuring information from scanned forms using an **OCR ensemble (TrOCR + DocTR + EasyOCR)** with document alignment, validation, and batch processing.
 
-### 🏫 Cloud-Based NAAC Data Management System
-- Centralized accreditation document management platform.
-- Django, React, PostgreSQL, Docker, Keycloak, MinIO.
+`Python` `FastAPI` `OpenCV` `TrOCR` `DocTR` `Docker` `HuggingFace`
 
-### 🎭 EmoBhaava
-- Kannada Sarcasm & Sentiment Analysis.
-- XLM-RoBERTa based multilingual NLP system.
-- Supports Kannada, Romanized Kannada & Code-Mixed text.
+</td>
+<td width="50%" valign="top">
 
----
+### 🗣️ EmoBhaava — Kannada Sarcasm & Sentiment Analysis
+> Multilingual NLP system for sarcasm and sentiment detection in **Kannada, Romanized Kannada, and code-mixed text** using XLM-RoBERTa, with REST APIs and Dockerized deployment.
 
-## 🏆 Achievements
+`XLM-RoBERTa` `PyTorch` `HuggingFace` `Flask` `Docker` `NLP`
 
-🏎️ Manager, Team SJEC Racing
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🥉 AIR 3 in ATVC
+### 🎓 Cloud-Based NAAC Data Management System
+> Centralized accreditation platform with **role-based access control (Keycloak), full-text search (MeiliSearch), secure storage (MinIO)**, and containerized deployment for institutional document management.
 
-🎖️ AIR 8 Overall – BAJA SAEINDIA 2026
+`Django` `React` `PostgreSQL` `Docker` `Keycloak` `MeiliSearch` `MinIO`
 
-⚓ NCC Naval Wing – Leading Cadet
+</td>
+<td width="50%" valign="top">
 
-🏅 Kittur Rani Chennamma Award Recipient
+### 🤖 GenAI & RAG (Active Learning)
+> Expanding expertise in **Retrieval-Augmented Generation, LLM fine-tuning, and AI agent frameworks** — building production-grade pipelines with LangChain and vector databases.
 
-🏅 Contributor to Laxmi Mazumdar Award Winning Unit
+`LangChain` `RAG` `LLMs` `AI Agents` `Vector DBs` `GenAI`
 
----
-
-## 📜 Certifications
-
-- Oracle Cloud Infrastructure (OCI) – Generative AI Professional
-- Oracle AI Foundations Associate
-- Oracle Foundations Associate
-- Salesforce Developer Catalyst
-- Salesforce Administrator Explorer
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanviShetty19&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviShetty19&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanviShetty19&theme=tokyonight"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanviShetty19&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviShetty19&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
 
----
+</div>
 
-## 🌐 Connect With Me
+<div align="center">
 
-💼 LinkedIn: www.linkedin.com/in/tanvi-shetty19
+![GitHub Streak](https://streak-stats.demolab.com?user=TanviShetty19&theme=tokyonight&hide_border=true)
 
-💻 GitHub: github.com/TanviShetty19
-
-🌐 Portfolio: tanvi19.netlify.app
-
-📧 Email: shettytanvi19@gmail.com
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanviShetty19&label=Profile%20Views&color=blue&style=for-the-badge"/>
-</p>
+## 🏆 Highlights
 
-<h3 align="center">
-✨ Building AI Solutions That Make an Impact ✨
-</h3>
+| 🏅 Achievement | Details |
+|---|---|
+| 🏎️ **BAJA SAE India 2026** | Manager of Team SJEC Racing — **AIR 3 ATVC & AIR 8 Overall** |
+| 🎓 **CGPA 9.79** | B.E. Computer Science & Data Science, SJEC Mangalore |
+| ☁️ **Oracle OCI Certified** | Generative AI Professional + AI Foundations + Foundations Associate |
+| 🏢 **Geojit Technologies Intern** | AI-driven document automation across the full software dev lifecycle |
+| 🎖️ **NCC Naval Wing** | Served as Leading Cadet — leadership, discipline, teamwork |
+| 🏅 **Kittur Rani Chennamma Award** | Recognised for leadership, social service & community engagement |
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+[![Oracle GenAI](https://img.shields.io/badge/Oracle_OCI-Generative_AI_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+[![Oracle AI Foundations](https://img.shields.io/badge/Oracle_OCI-AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+[![Oracle Foundations](https://img.shields.io/badge/Oracle_OCI-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+[![Salesforce](https://img.shields.io/badge/Salesforce-Developer_Catalyst_%26_Admin_Explorer-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://trailhead.salesforce.com/)
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvi-shetty19)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TanviShetty19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanvi19.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shettytanvi19@gmail.com)
+
+**Open to AI/ML Engineering & Software Engineering roles | Willing to relocate**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=100&amp;section=footer" width="100%"/>
+
+*"Translating data-driven insights into intelligent systems — one model at a time."*
+
+</div>
