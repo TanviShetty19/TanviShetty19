@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Hi%20there%2C%20I'm%20Tanvi%20Shetty%20👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20CS%20%26%20Data%20Science%20Graduate&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=180&amp;section=header&amp;text=Hi%20there%2C%20I'm%20Tanvi%20Shetty%20%F0%9F%91%8B&amp;fontSize=40&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%2FML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20CS%20%26%20Data%20Science%20Graduate&amp;descAlignY=55&amp;descSize=16" width="100%"/>
 
 </div>
 
@@ -107,8 +107,8 @@ tanvi = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanviShetty19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviShetty19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanviShetty19&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanviShetty19&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" />
 
 </div>
 
@@ -163,7 +163,7 @@ tanvi = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,18,24&amp;height=100&amp;section=footer" width="100%"/>
 
 *"Translating data-driven insights into intelligent systems — one model at a time."*
 
