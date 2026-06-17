@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+GenAI+%26+RAG+Builder;Document+Intelligence+%7C+OCR+%7C+NLP;Oracle+OCI+GenAI+Certified+%E2%98%81%EF%B8%8F;BAJA+SAE+India+2026+—+AIR+3+ATVC+%F0%9F%8F%8E%EF%B8%8F;Open+to+AI%2FML+%26+Software+Engineering+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+GenAI+%26+RAG+Builder;Document+Intelligence+%7C+OCR+%7C+NLP;Oracle+OCI+GenAI+Certified+%E2%98%81%EF%B8%8F;BAJA+SAE+India+2026+—+AIR+3+%F0%9F%8F%8E%EF%B8%8F;Open+to+AI%2FML+%26+Software+Engineering+Roles)](https://git.io/typing-svg)
 
 </div>
 
