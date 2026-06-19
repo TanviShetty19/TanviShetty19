@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+GenAI+%26+RAG+Builder;Document+Intelligence+%7C+OCR+%7C+NLP;Oracle+OCI+GenAI+Certified+%E2%98%81%EF%B8%8F;BAJA+SAE+India+2026+—+AIR+3+%F0%9F%8F%8E%EF%B8%8F;Open+to+AI%2FML+%26+Software+Engineering+Roles)](https://git.io/typing-svg)
@@ -16,21 +14,17 @@
 
 ## 🧑‍💻 About Me
 
-```python
-tanvi = {
-    "education":    "B.E. Computer Science & Data Science @ SJEC, Mangalore (CGPA: 9.79)",
-    "location":     "Mangalore / Udupi, Karnataka, India 🇮🇳",
-    "focus":        ["AI/ML Engineering", "Document Intelligence", "GenAI & RAG", "NLP"],
-    "certifications": [
-        "Oracle OCI — Generative AI Professional",
-        "Oracle OCI — AI Foundations Associate",
-        "Oracle OCI — Foundations Associate",
-        "Salesforce Developer Catalyst & Administrator Explorer",
-    ],
-    "open_to":      "AI/ML & Software Engineering roles | Open to relocation",
-    "fun_fact":     "Manager of Team SJEC Racing — AIR 3 ATVC at BAJA SAE India 2026 🏎️",
-}
-```
+I'm Tanvi, an **AI/ML Engineer** and final-year **Computer Science & Data Science** student at SJEC, Mangalore, graduating with a CGPA of **9.79**. I'm passionate about building intelligent systems that turn unstructured data — documents, images, speech — into something machines can actually reason about.
+
+My work sits at the intersection of **Document Intelligence**, **Generative AI**, and **NLP**. I've built OCR ensembles that extract structured data from scanned forms, multilingual sentiment models for code-mixed Kannada text, and I'm currently deepening my skills in **RAG pipelines, LLM fine-tuning, and AI agent frameworks** using LangChain and vector databases.
+
+Beyond the keyboard, I managed a 30-member cross-functional team to **AIR 3 (ATVC)** at BAJA SAE India 2026 — an experience that sharpened my leadership and cross-team collaboration just as much as any project did.
+
+🔭 **Currently exploring:** RAG architectures, LLM agents, and vector search at scale
+🌱 **Always learning:** New ways to make AI systems more reliable and production-ready
+📍 **Based in:** Mangalore / Udupi, Karnataka, India 🇮🇳
+💼 **Open to:** AI/ML Engineering & Software Engineering roles — open to relocation
+⚡ **Fun fact:** I lead engineering teams as confidently as I lead model pipelines
 
 ---
 
