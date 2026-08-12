@@ -24,7 +24,7 @@ Beyond the keyboard, I managed a 30-member cross-functional team to **AIR 3 (ATV
 🌱 **Always learning:** New ways to make AI systems more reliable and production-ready
 📍 **Based in:** Mangalore / Udupi, Karnataka, India 🇮🇳
 💼 **Open to:** AI/ML Engineering & Software Engineering roles — open to relocation
-⚡ **Fun fact:** I lead engineering teams as confidently as I lead model pipelines
+
 
 ---
 
